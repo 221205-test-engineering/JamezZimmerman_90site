@@ -1,0 +1,28 @@
+p{
+    font-size: 12;
+    font-style: italic;
+}
+body{
+background-color: lightgoldenrodyellow;
+}
+h1{
+background-color: Crimson;
+}
+
+#wE{
+font-weight: 5;
+font-size: 16;
+background-color: lightskyblue;
+}
+#List{
+font-size: 12;
+font-style: italic;
+background-color: lavender;
+border: 5px, double, blueviolet;
+}
+#orderdList{
+    font-size: 12;
+    font-style: italic;
+    background-color: blue;
+    border: 5px, double, red;
+    }
